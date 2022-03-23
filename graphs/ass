@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2022-03-22T09:53:12.951Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" version="17.1.3" etag="Mob1QKPBdD0JWkCqIrHO" type="github"><diagram id="ANstRSEONjgLsfuX5gmF">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-23T14:46:23.141Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="Fak85X8S1wi1UrGTWt1C" version="17.1.3" type="github">
+  <diagram id="ANstRSEONjgLsfuX5gmF" name="Page-1">
+    <mxGraphModel dx="1056" dy="529" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="g7O3loSz8wNArCPVC70--1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="120" width="670" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="g7O3loSz8wNArCPVC70--2" value="Кликабельный элемент" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="299" y="170" width="230" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="g7O3loSz8wNArCPVC70--3" value="Прокачка1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g7O3loSz8wNArCPVC70--4" value="Прокачка2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g7O3loSz8wNArCPVC70--5" value="Прокачка3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g7O3loSz8wNArCPVC70--6" value="Прокачка4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g7O3loSz8wNArCPVC70--7" value="Прокачка5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g7O3loSz8wNArCPVC70--8" value="Настройка" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="130" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g7O3loSz8wNArCPVC70--9" value="MONEY" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g7O3loSz8wNArCPVC70--11" value="Магазин" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="580" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g7O3loSz8wNArCPVC70--12" value="Таблица лидеров" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="330" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
